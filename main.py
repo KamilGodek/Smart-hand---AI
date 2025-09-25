@@ -5,11 +5,7 @@ from cvzone.HandTrackingModule import HandDetector
 import google.generativeai as genai
 import os
 from PIL import Image
-import streamlit as st
 
-
-
-st.image("")
 
 genai.configure(api_key="AIzaSyBz0cIzroVo_CD-S6Fkh7VFVm6f5vn1kVA")
 model = genai.GenerativeModel("gemini-2.5-flash")       #model="gemini-2.5-flash"
