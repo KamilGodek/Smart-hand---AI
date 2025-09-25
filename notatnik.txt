@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=RhhN0CLnFdc
+39min
+
+#instaluje
+pip install cvzone
+pip install mediapipe
+pip install
